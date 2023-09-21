@@ -1,0 +1,284 @@
+.div2{color: #DB0A40;
+    font-family: cursive;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-align: center;
+    }
+.div3{display: flex;
+    width:  650px;
+    height: 449px;
+    padding: 64px 0px;
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+    border-radius: 0px 30px 30px 0px;
+    border: 3px solid #021794;
+    background: #FFF;
+    float: right;
+    
+    
+}
+.div4{
+    color: #08140C;
+    font-family: Poppins;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    text-align: center;
+} 
+.div5{
+    width: 400px;
+    height: 50px;
+    
+    
+
+}   
+.image1{
+    width: 56px;
+    height: 60px;
+    text-align: center;
+}
+.div6{
+    width: 400px;
+    height: 50px; 
+}
+.div1{
+    text-align: center;
+
+}
+.button{
+    display: flex;
+width: 144px;
+padding: 15px 24px;
+justify-content: center;
+align-items: center;
+gap: 10px;
+border-radius: 30px;
+background: #021794;
+height: 30px;
+bottom: 30px;
+right: 20%;
+left: 15%;
+position: absolute;
+left: 70%;
+
+
+}
+.text{
+    color: #FFF;
+text-align: center;
+font-family: Poppins;
+font-size: 12px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.forgotpass{color: #DB0A40;
+    font-family: Poppins;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    text-align: right;
+    float: right;
+    text-decoration: none;
+    
+}
+ .welcome{
+    width: 410px;
+height: 713px;
+flex-shrink: 0;
+border-radius: 30px 0px 0px 30px;
+background: #021794;
+float:left;
+display: flex;
+} 
+.remember{
+    color: #08140C;
+font-family: Poppins;
+font-size: 12px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
+.check{
+    width: 16px;
+height: 16px;
+}
+.svg{
+    width: 14px;
+height: 9px;
+flex-shrink: 0;
+
+display: inline-block;
+}
+.welcome{
+    background-color: #021794;
+    width: 650px;
+height: 582px;
+flex-shrink: 0;
+border-radius: 30px 0px 0px 30px;
+}
+.textwelcome{
+    color: #FFF;
+font-family: Poppins;
+font-size: 32px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+text-align: center;
+padding: 150px 250px;
+}
+.biglogo{
+    width: 250px;
+height: 250px;
+
+text-align: center;
+
+display: flex;
+justify-content: center;
+align-items: center;
+gap: 10px;
+border-radius: 30px;
+
+bottom: 30px;
+
+left: 15%;
+position: absolute;
+left: 15%;
+}
+.div3{display: flex;
+    width:  650px;
+    height: 449px;
+    padding: 64px 0px;
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+    border-radius: 0px 30px 30px 0px;
+    border: 3px solid #021794;
+    background: #FFF;
+    float: right;
+}
+.main-container{
+    display: flex;
+
+}
+.main-container .left,
+.main-container .right{
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 40%;
+    height: 100vh;
+}
+.div13{
+    color: #08140C;
+    font-family: Poppins;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    text-align: left;
+    gap: 10px;
+    margin-bottom:-25px;
+    margin-top: 50px;
+    
+  } 
+  .div10{
+    width: Hug (344px);
+  height: Hug (21px);
+  padding: 0px 2px 0px 2px;
+  color:rgb(68, 65, 65);
+  
+  
+  }
+  .div11{
+    color: #08140C;
+    font-family: Poppins;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    text-align: left;
+    padding-right: 300px;
+    
+    
+  } 
+
+  .button2{
+    display: flex;
+width: 144px;
+padding: 15px 24px;
+justify-content: center;
+align-items: center;
+gap: 10px;
+border-radius: 30px;
+background: #021794;
+height: 30px;
+bottom: 20px;
+right: 20%;
+left: 15%;
+position: absolute;
+left: 70%;
+
+
+}
+.icon{
+    width: 22.5px;
+    height: 22.5px;
+    border: 1.5px;
+    border: 1.5px solid #26BEDF;
+    text-align: center;
+    color:#26BEDF;
+    border-radius: 50%;
+    
+    
+    
+
+
+}
+.my{
+    padding: 0px 620px;
+}
+.div33{
+    text-align: center;
+    width: Hug (371px);
+height: Hug (56px);
+padding: 10px 0px 10px 0px;
+gap: 10px;
+}
+.buttonew{
+    width: Hug (64px);
+height: Hug (42px);
+padding: 12px 24px 12px 24px;
+border-radius: 30px;
+gap: 16px;
+background: #021794;
+
+}
+@media (max-width: 375px){
+    .welcome{
+        width: 20px;
+    height: 20px;
+    flex-shrink: 0;
+    border-radius: 30px 0px 0px 30px;
+    background: #021794;
+    float:left;
+    display: flex;
+    } 
+}
+.error{
+    color: red;
+    font-family: italic;
+    text-align: center;
+}
+
+
+  
+
+  
+  
