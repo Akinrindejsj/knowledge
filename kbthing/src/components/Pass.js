@@ -12,7 +12,7 @@ const Pass = () => {
     <div className='right'>
 
 <div className='welcome'>
-<h1 className='textwelcome'>Forgot Password?</h1>
+<h1 className='textwelcome'>Forgot Password</h1>
 
    </div>
         <div className='left'>
