@@ -35,7 +35,7 @@ const Login = () => {
         <input onChange={e=>setfirstName(e.target.value)} className='div5' type="text" />
         {error&&firstName.length<=0?
       <p className='error'>
-      Username cannot be empty
+      Username cannot be emptied
 
       </p>:""}
 
